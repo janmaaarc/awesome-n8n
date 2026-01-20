@@ -158,6 +158,7 @@ ScrapeNinja handles headless browsers, proxies, timeouts, retries, and helps wit
 | 96 | [n8n-nodes-chatwork](https://www.npmjs.com/package/n8n-nodes-chatwork) | Retrieves data from Chatwork API. | [@hoangdv](https://github.com/hoangdv) | 1.2.0 | 16,856 | 40 |
 | 99 | [n8n-nodes-qdrant](https://www.npmjs.com/package/n8n-nodes-qdrant) | Connects to Qdrant vector search engine. | [@qdrant-tech](https://github.com/qdrant-tech) | 0.2.1 | 14,235 | 7 |
 | 100 | [n8n-nodes-qdrant](https://www.npmjs.com/package/n8n-nodes-qdrant) | Connects to Qdrant vector search engine. | [@qdrant-tech](https://github.com/qdrant-tech) | 0.2.1 | 14,235 | 7 |
+| - | [n8n-nodes-lemonsqueezy](https://www.npmjs.com/package/n8n-nodes-lemonsqueezy) | Lemon Squeezy integration for digital products, subscriptions & license keys | [@janmaaarc](https://github.com/janmaaarc) | 0.5.0 | - | - |
 
 
 ## 6. AI, LLM & Voice Nodes
